@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**jechmx/jechmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Ingeniero de Software**
 
-Here are some ideas to get you started:
+:pencil: **Generador de contenido**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:eyeglasses: **Geek empedernido**
+
+:oncoming_automobile: **Fab de los autos , carreras y simuladores**
+
+:family: **!El papa mas feliz del mundo**
+
+### Vias de contacto
+
+![Website](https://www.linkedin.com/in/jose-emmanuel-chavez-narvaez-25a03843/)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jechmx/prueba)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jechmx/hyperblog)
