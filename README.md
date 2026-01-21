@@ -17,3 +17,10 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jechmx/prueba)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jechmx/hyperblog)
+
+###:zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
